@@ -1,0 +1,4 @@
+Free proxy: 
+HTTP - 78.137.122.113:443/http.txt
+SOCKS4 - 78.137.122.113:443/socks4.txt
+SOCKS5 - 78.137.122.113:443/socks5.txt
